@@ -1,5 +1,5 @@
 Passbook-
 =========
 
-Passbook integration  coupon descount works with iOS6 
+Passbook integration  coupon discount works with iOS6 
 
